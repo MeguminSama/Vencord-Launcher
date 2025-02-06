@@ -5,7 +5,7 @@ members = ["crates/*"]
 name = "vencord-launcher"
 description = "An easy-to-use launcher for Vencord"
 authors = ["Rie Takahashi <megumin@megu.dev>"]
-version = "0.1.6"
+version = "0.1.7"
 license = "GPL-3.0"
 homepage = "https://github.com/meguminsama/vencord-launcher"
 repository = "https://github.com/meguminsama/vencord-launcher"
@@ -15,7 +15,7 @@ edition = "2021"
 [dependencies]
 clap = "4.5.27"
 dirs = "6.0.0"
-electron-hook = "0.2.0-beta.18"
+electron-hook = "0.2.0-beta.21"
 tinyjson = "2.5.1"
 tokio = { version = "1.43.0", features = ["macros", "rt-multi-thread"] }
 ureq = "3.0.3"
