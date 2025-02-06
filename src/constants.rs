@@ -1,5 +1,5 @@
 #[cfg(windows)]
-pub static LIBRARY: &str = "vencord_launcher";
+pub static LIBRARY: &str = "vencord_launcher.dll";
 
 #[cfg(not(windows))]
 pub static LIBRARY: &str = "libvencord_launcher.so";
