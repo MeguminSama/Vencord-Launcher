@@ -1,5 +1,5 @@
 !define PRODUCT_NAME "Vencord Launcher"
-!define PRODUCT_VERSION "0.1.9.0"
+!define PRODUCT_VERSION "0.1.11.0"
 !define PRODUCT_PUBLISHER "Vencord & Contributors"
 
 !define ASSETS_ROOT "assets"
